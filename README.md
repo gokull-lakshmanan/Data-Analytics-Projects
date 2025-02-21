@@ -11,7 +11,7 @@ This repository showcases my data analysis skills and experience through a colle
 * 
 ## Projects
 
-### Project 1: [Netflix Data Exploration and Visualization](https://github.com/gokull-lakshmanan/Projects/tree/main/Netflix-Data-Exploration(Python))
+### Project 1: [Netflix Data Analysis | Content Trends & Viewer Insights](https://github.com/gokull-lakshmanan/Projects/tree/main/Netflix-Data-Exploration(Python))
 This project analyzes Netflix's content library to uncover key trends, viewer preferences, and regional insights. The goal is to optimize content acquisition and distribution strategies based on data-driven recommendations.
 
 - **Key Technologies**: Python (NumPy, Pandas, Matplotlib, Seaborn), Google Colab
