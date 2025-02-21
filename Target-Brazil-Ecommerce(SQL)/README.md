@@ -27,34 +27,35 @@ The analysis is conducted on the `Business_Case_Target_SQL` database, which cont
 - **orders.csv**: Order timestamps and delivery information
 - **products.csv**: Product category and specification details
 
-## 📊 Key Analyses & Findings
-### 1️⃣ Exploratory Data Analysis
-- Checked data types for all columns in the `customers` table.
-- Identified the order placement time range (from September 2016 to October 2018).
-- Counted the number of unique cities (4,119) and states (27) from which orders were placed.
+## 📊 Key Analyses & Insights
 
-### 2️⃣ Trend & Seasonal Analysis
-- **Yearly Order Trends:** Orders increased significantly from 2016 (329 orders) to 2018 (54,011 orders), indicating a growing trend.
-- **Seasonality:** Peaks in November-December due to holiday shopping and a drop in September.
-- **Time of Day Analysis:** Most orders were placed in the afternoon (13-18 hrs), with 38,135 orders.
+### 1️⃣ Exploratory Data Analysis  
+- Analyzed data types for all columns in the `customers` table.  
+- Identified the time range during which orders were placed.  
+- Counted the number of unique cities and states from which orders were placed.
+  
+### 2️⃣ Trend & Seasonal Analysis  
+- Explored yearly trends in the number of orders placed.  
+- Analyzed seasonality patterns to identify peak and low sales periods.  
+- Conducted time-of-day analysis to determine when customers most frequently place orders.  
 
-### 3️⃣ Regional Analysis
-- **Monthly Orders by State:** Analyzed order trends across different states.
-- **Customer Distribution:** Identified the number of customers per state.
+### 3️⃣ Regional Analysis  
+- Performed a month-on-month analysis of orders across different states.  
+- Mapped customer distribution to understand regional demand patterns.  
 
-### 4️⃣ Economic Impact Analysis
-- **Order Cost Growth:** A 136.98% increase in payment value from 2017 to 2018 (Jan-Aug).
-- **Total & Average Order Price by State:** Summarized pricing insights per region.
-- **Total & Average Freight Cost by State:** Evaluated logistics expenses.
+### 4️⃣ Economic Impact Analysis  
+- Evaluated year-over-year changes in order costs.  
+- Analyzed total and average order prices by state.  
+- Assessed total and average freight costs across regions.  
 
-### 5️⃣ Logistics & Delivery Insights
-- **Delivery Time Analysis:** Calculated actual vs. estimated delivery delays.
-- **Freight Costs:** Identified states with the highest and lowest shipping costs.
-- **Delivery Speed Ranking:** Ranked states by fastest delivery performance.
+### 5️⃣ Logistics & Delivery Insights  
+- Calculated delivery times and compared actual vs. estimated delivery dates.  
+- Identified states with the highest and lowest freight costs.  
+- Ranked states based on delivery speed performance.  
 
-### 6️⃣ Payment Behavior Analysis
-- **Payment Method Trends:** Monthly breakdown of orders by payment type.
-- **Installment-based Purchases:** Count of orders based on payment installments.
+### 6️⃣ Payment Behavior Analysis  
+- Analyzed monthly trends in payment methods used.  
+- Evaluated the frequency of installment-based purchases.  
 
 ## 🔧 Technologies Used
 - **SQL** for querying and analysis
