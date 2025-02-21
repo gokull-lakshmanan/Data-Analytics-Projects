@@ -15,8 +15,9 @@ Analyze Netflix’s dataset to generate insights that can help the company decid
 │   ├── documentation/             
 │   │   ├── Netflix Data Exploration and Visualisation.pdf
 |   |   ├── .gitkeep
-│   ├── README.md                  
-
+│   ├── README.md
+     
+```
 ## 📊 Dataset Overview
 **Dataset Link:** [Dataset_link]
 
