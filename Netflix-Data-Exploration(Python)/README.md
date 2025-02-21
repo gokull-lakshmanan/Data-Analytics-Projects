@@ -16,7 +16,6 @@ Analyze Netflix’s dataset to generate insights that can help the company decid
 │   │   ├── Netflix Data Exploration and Visualisation.pdf
 |   |   ├── .gitkeep
 │   ├── README.md
-     
 ```
 ## 📊 Dataset Overview
 **Dataset Link:** [Dataset_link]
@@ -36,22 +35,33 @@ This dataset contains listings of all movies and TV shows available on Netflix, 
 - **description**: Short summary
 
 ## 🔍 Key Analyses & Insights
-### 1️⃣ Content Distribution Across Countries
-- Which type of content is available in different countries?
-- Understanding content availability and regional preferences.
 
-### 2️⃣ Trend Analysis
-- How has the number of movies released per year changed over the last 20-30 years?
-- Does Netflix focus more on TV shows than movies in recent years?
-- The best time to launch a new TV show.
+### 1️⃣ Content Distribution Across Countries  
+- What type of content (Movies/TV Shows) is available in different countries?  
+- Which countries have the highest number of titles on Netflix?  
+- What are the most popular genres in top countries?  
 
-### 3️⃣ Actor & Director Analysis
-- Identifying top actors and directors in different genres.
-- Popularity trends based on actors/directors.
+---
 
-### 4️⃣ Rating & Genre Analysis
-- What ratings are most common on Netflix?
-- Trends in content duration over time.
+### 2️⃣ Trend Analysis  
+- How has the number of movies and TV shows released per year changed over the last 20-30 years?  
+- Is there a growing focus on TV shows over movies in recent years?  
+- What is the best time (month) to launch new movies or TV shows in different countries?  
+
+---
+
+### 3️⃣ Actor & Director Analysis  
+- Who are the top actors and directors in different countries?  
+- Which actors and directors are most featured in popular content?  
+- Are there country-specific preferences for actors or directors?  
+
+---
+
+### 4️⃣ Rating & Genre Analysis  
+- What are the most common content ratings (e.g., TV-MA, PG-13) across different regions?  
+- Which genres are the most popular globally and regionally?  
+- Are there trends in the duration of movies and TV shows over the years?  
+
 
 ## 🔧 Technologies Used
 - **Python** for data analysis
