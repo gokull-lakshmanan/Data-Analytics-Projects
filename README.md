@@ -8,7 +8,7 @@ This repository showcases my data analysis skills and experience through a colle
 * **Data Analysis & Visualization:** Exploratory Data Analysis (EDA), Statistical Analysis, Probability, Data-Driven Decision Making
 * **Tools & Technologies:** Google Colab, Big Query
 * **Soft Skills:** Effective Communication, Collaboration, Critical Thinking
-* 
+
 ## Projects
 
 ### Project 1: [Netflix Data Analysis | Content Trends & Viewer Insights](https://github.com/gokull-lakshmanan/Projects/tree/main/Netflix-Data-Exploration(Python))
