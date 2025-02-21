@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-This repository showcases my data analysis skills and experience through a collection of projects. I am passionate about leveraging data to extract actionable insights and drive informed decision-making. This README provides an overview of my skills and serves as a central hub for navigating my project portfolio.
+This repository showcases my data analysis skills and experience through a collection of projects. I am passionate about leveraging data to extract actionable insights and drive informed decision-making. This README provides an overview of my skills and serves as a summary of the projects that demonstrate my expertise in data analysis.
 
 ## Skills
 
@@ -11,17 +11,20 @@ This repository showcases my data analysis skills and experience through a colle
 * 
 ## Projects
 
-### Project 1: Netflix Data Exploration and Visualisation
+### Project 1: Netflix Data Exploration and Visualization
+This project analyzes Netflix's content library to uncover key trends, viewer preferences, and regional insights. The goal is to optimize content acquisition and distribution strategies based on data-driven recommendations.
 
-This project delves into Netflix's vast content library to identify key trends, understand viewer preferences, and uncover regional insights. By analyzing various factors like content type, release year, country of origin, and ratings, I aim to provide data-driven recommendations that can help Netflix optimize its content acquisition and distribution strategies.
-
-* **Key Technologies:** Python (NumPy, Pandas, Matplotlib, Seaborn), Collab
-* **Key Insights/Results:** The analysis explores content distribution patterns, identifies top-performing countries for different content types, and examines release patterns over time. Specific insights include identifying peak release periods, popular directors and actors in different regions, common movie ratings, and trends in content duration.  *(These insights are based on the PDF you provided.  Make sure to update them with your own findings.)*
-
+- **Key Technologies**: Python (NumPy, Pandas, Matplotlib, Seaborn), Google Colab
+- **Key Insights**:
+  - Explores content distribution patterns across regions.
+  - Identifies peak release periods and popular directors/actors by region.
+  - Analyzes movie ratings and trends in content duration.
 
 ### Project 2: Target Brazil E-Commerce Analysis
+This project explores over 100,000 orders from Target Brazil's e-commerce platform between 2016 and 2018. The goal is to uncover customer behavior trends, order patterns, and regional sales insights.
 
-This project provides a comprehensive analysis of over 100,000 orders from Target Brazil's e-commerce platform between 2016 and 2018. Using exploratory data analysis (EDA) techniques and SQL (BigQuery), I uncover valuable insights into customer behavior, order trends, and regional sales distributions. The analysis covers various aspects of the business, including payment methods, freight costs, delivery times, and seasonal patterns.
-
-* **Key Technologies:** SQL, BigQuery
-* **Key Insights/Results:** The analysis identifies trends in customer behavior, order volumes, and regional sales distributions. It also provides insights into payment method preferences, the impact of freight costs on purchasing decisions, delivery time performance, and the influence of seasonality on sales patterns. *(These insights are based on the PDF you provided.  Make sure to update them with your own findings.)*
+- **Key Technologies**: SQL, BigQuery
+- **Key Insights**:
+  - Analyzes trends in customer behavior and regional sales distributions.
+  - Identifies the impact of freight costs and delivery times on purchasing decisions.
+  - Analyzes seasonality and its effects on sales patterns.
