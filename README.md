@@ -1,11 +1,11 @@
-# Data Analysis Projects
+# Data Analysis Portfolio
 
 This repository showcases my data analysis skills and experience through a collection of projects. I am passionate about leveraging data to extract actionable insights and drive informed decision-making. This README provides an overview of my skills and serves as a summary of the projects that demonstrate my expertise in data analysis.
 
 ## Skills
 
 * **Programming Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn), SQL (MySQL, BigQuery)
-* **Data Analysis & Visualization:** Exploratory Data Analysis (EDA), Statistical Analysis, Data-Driven Decision Making
+* **Data Analysis & Visualization:** Exploratory Data Analysis (EDA), Statistical Analysis, Probability, Data-Driven Decision Making
 * **Tools & Technologies:** Google Colab, Big Query
 * **Soft Skills:** Effective Communication, Collaboration, Critical Thinking
 * 
