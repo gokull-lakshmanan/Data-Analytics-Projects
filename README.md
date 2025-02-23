@@ -29,7 +29,7 @@ This project explores over 100,000 orders from Target Brazil's e-commerce platfo
   - Identifies the impact of freight costs and delivery times on purchasing decisions.
   - Analyzes seasonality and its effects on sales patterns.
 
-### Project 2: [Aerofit Descriptive Statistics, Probability & Customer Segmentation](https://github.com/gokull-lakshmanan/Data-Analytics-Projects/tree/main/Aerofit --Descriptive-Statistics-&-Customer-Segmentation)
+### Project 2: [Aerofit Descriptive Statistics, Probability & Customer Segmentation](https://github.com/gokull-lakshmanan/Data-Analytics-Projects/tree/main/Aerofit-Descriptive-Statistics-&-Customer-Segmentation)
 This project analyzes Aerofit’s treadmill customer data using descriptive statistics and probability techniques to uncover purchasing patterns and segment the target audience. The goal is to provide data-driven recommendations for product positioning and personalized marketing strategies.
 
 - **Key Technologies**: Python (NumPy, Pandas, Matplotlib, Seaborn), Probability & Statistics, Google Colab
