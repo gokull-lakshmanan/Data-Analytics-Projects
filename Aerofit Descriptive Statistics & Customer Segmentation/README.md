@@ -1,45 +1,55 @@
-🏃‍♂️ Aerofit Treadmill Customer Analysis
-📌 About Aerofit
-Aerofit is a leading fitness equipment brand, offering treadmills, exercise bikes, gym equipment, and accessories. This project analyzes Aerofit's customer data to help improve product recommendations and marketing strategies.
+# Aerofit - Descriptive Statistics & Probability
 
-🏆 Business Problem
-The goal is to identify customer characteristics for each treadmill model (KP281, KP481, and KP781) to make better product recommendations and improve marketing efforts.
+## 📌 About Aerofit
+Aerofit is a company specializing in fitness equipment, particularly treadmills. The goal of this project is to analyze Aerofit's treadmill customer data to provide insights into customer demographics, preferences, and purchasing behaviors.
 
-📂 Repository Structure
+## 🏆 Business Problem
+The market research team at Aerofit aims to identify the characteristics of the target audience for each treadmill model. This analysis will help provide better product recommendations to new customers and optimize marketing strategies.
 
-├── Aerofit-Descriptive-Statistics-Customer-Segmentation/  
+## 📂 Repository Structure
+```
+├── Aerofit Descriptive Statistics & Customer Segmentation/
 │   ├── documentation/             
-│   │   ├── .gitkeep  
-│   │   ├── Aerofit - Descriptive Statistics & Probability.pdf  
-│   ├── notebooks/                 
-│   │   ├── .gitkeep  
-│   ├── README.md  
-📊 Dataset Overview
-The dataset includes customer demographics and usage data for three treadmill models:
+│   │   ├── .gitkeep
+│   │   ├── Aerofit - Descriptive Statistics & Probability.pdf
+│   ├── notebooks/                  
+│   │   ├── .gitkeep
+│   │   ├── Aerofit_Descriptive_Statistics_and_Probability.ipynb
+│   ├── README.md
+```
 
-Product Purchased: KP281, KP481, KP781
-Age: In years
-Gender: Male/Female
-Education: In years
-Marital Status: Single/Partnered
-Usage: Avg. weekly treadmill use
-Income: Annual income
-Fitness: Self-rated fitness (1-5 scale)
-Miles: Avg. miles run/walked per week
-📐 Analysis Performed
+## 📊 Dataset Overview
+Dataset Link: [Dataset_link]
 
-Descriptive Stats: Mean, median, standard deviation, outliers
-Probability Analysis: Marginal & conditional probabilities
-Customer Insights: Profiling for each treadmill model
-💡 Business Insights
+This dataset consists of 180 customer records and 8 attributes:
+- **Product Purchased**: Treadmill model (KP281, KP481, KP781)
+- **Age**: Customer's age (in years)
+- **Gender**: Male/Female
+- **Education**: Number of years of education completed
+- **Marital Status**: Single/Partnered
+- **Income**: Annual income in USD
+- **Fitness**: Self-rated fitness level (1-5), where 1 is poor shape and 5 is excellent shape
+- **Miles**: Average number of miles expected to walk/run each week
 
-Targeted recommendations based on customer profiles
-Optimized marketing for specific demographics
-Key buying factors identified for each treadmill model
-🔧 Technologies Used
+## 🔍 Key Analyses & Insights
+### 1️⃣ Customer Demographics
+- What age groups are more likely to purchase each treadmill model?
+- How does gender distribution vary across treadmill models?
+- What is the impact of marital status on treadmill preferences?
 
-Python 🐍
-Pandas, NumPy – Data handling
-Matplotlib, Seaborn – Visualization
-Google Colab – Analysis
+### 2️⃣ Income & Product Selection
+- What is the income distribution of customers for each treadmill model?
+- How does income level influence treadmill choice?
+- Are there any patterns in spending behavior among different demographic groups?
 
+### 3️⃣ Statistical & Probability Analysis
+- Identification of outliers in age, income, and treadmill usage
+- Probability distribution of fitness levels for different treadmill models
+- Correlation between customer characteristics and treadmill preference
+
+## 🔧 Technologies Used
+- **Python** for data analysis
+- **Pandas & NumPy** for data processing
+- **Matplotlib & Seaborn** for visualization
+- **Probability & Statistics** for analytical insights
+- **Google Colab** for interactive exploration
